@@ -56,12 +56,8 @@ alias pythong='python'
 alias edit='moeditor'
 alias ppjson="python -m json.tool"
 alias ccc="g++ -Wall"
-alias cse="ssh -x owshen@ieng6.ucsd.edu"
 alias pdf="xdg-open"
-alias cse_scp="scp /home/linux/ieng6/oce/5j/owshen"
 
-# added by Anaconda3 installer
-export PATH="/home/owen/program_files/anaconda3/bin:$PATH"
 
 # FUNCTIONS:
 # lazygit
